@@ -5,7 +5,9 @@ description: Let's get you started in BDFD!
 # BDFD Getting Started
 
 {% hint style="info" %}
-### **`WE ARE NOT ASSOCIATED WITH BDFD`** We are just a group of people who want to make coding easier! Let's be honest, Some docs don't explain well enough. We are here to fix your suffering and pain! <a href="#bdfdnotification" id="bdfdnotification"></a>
+## WE ARE NOT ASSOCIATED WITH BDFD
+
+We are just a group of people who want to make coding easier! Let's be honest, Some docs don't explain well enough. We are here to fix your suffering and pain!
 {% endhint %}
 
 BDFD Is a kinda non-code app & web app for discord bot development, It is called "Bot Designer For Discord". It is on [Apple](https://apps.apple.com/us/app/bot-designer-for-discord/id1495536477), [Android](https://play.google.com/store/apps/details?id=com.jakubtomana.discordbotdesinger\&hl=en\_US\&gl=US) & [Web](https://botdesignerdiscord.com/app/) they have documentation but it can be hard to understand sometimes. [If you wish to use the BDFD docs you can](https://nilpointer-software.github.io/bdfd-wiki/).
