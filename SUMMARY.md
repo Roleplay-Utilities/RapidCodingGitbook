@@ -10,5 +10,6 @@
   * [Share Codes](bdfd/bdfd-examples/share-codes.md)
   * [Command Examples](bdfd/bdfd-examples/command-examples/README.md)
     * [AddCmdReactions](bdfd/bdfd-examples/command-examples/addcmdreactions.md)
+  * [Interface Guides](bdfd/bdfd-examples/interface-guides.md)
 * [BDFD Commands](bdfd/bdfd-commands/README.md)
   * [AddCmdReactions](bdfd/bdfd-commands/addcmdreactions.md)
