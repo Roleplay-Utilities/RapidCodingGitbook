@@ -14,3 +14,5 @@ Want us to be the host of your documentation? Contact us in our discord. (By bei
 We offer easy coding libraries, click here if you're interested!\
 \
 If you want to support us, click here
+
+#### If you do not speak English, do not be worried. We will be working on a solution for that!
