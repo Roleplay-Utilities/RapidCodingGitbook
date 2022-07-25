@@ -1,5 +1,6 @@
 ---
 description: Rapid Coding
+layout: landing
 ---
 
 # Rapid Coding

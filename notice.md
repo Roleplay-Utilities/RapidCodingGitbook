@@ -1,5 +1,6 @@
 ---
 description: This is an important notice
+layout: landing
 ---
 
 # Notice

@@ -1,5 +1,6 @@
 ---
 description: Let's get you started in BDFD!
+layout: landing
 ---
 
 # BDFD Getting Started
